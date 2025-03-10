@@ -8,7 +8,7 @@ This Power BI dashboard provides a comprehensive analysis of gender diversity in
 ### Business Problem
 Despite efforts toward gender diversity, there remains a gap in representation at executive management levels. This project explores key HR metrics to uncover insights into hiring, promotion, and attrition trends that may contribute to this imbalance.
 
-![Alt text](/Portfolio/Assets/Diversity Inclusion.jpg)
+![Alt text](Portfolio/Assets/Diversity Inclusion.jpg)
 
 ### Key KPIs Tracked
 - **Hiring Trends** – Breakdown of new hires by gender across job levels.
